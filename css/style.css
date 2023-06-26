@@ -77,6 +77,12 @@ header .user img {
     object-fit: cover;
     box-shadow: 0 0 0 1rem rgba(255, 255, 255, .2);
 }
+.name{
+    text-transform: none;
+}
+.post{
+    text-transform: none;
+}
 
 header .user .name {
     font-size: 3rem;
@@ -414,3 +420,4 @@ header .navbar ul li a:hover {
     box-shadow: 0 0 0 .5rem rgba(255, 255, 255, .2),
         0 1rem 2rem rgba(0, 0, 0, .4);
 }
+
